@@ -30,4 +30,4 @@ before_install:
 script:
   - ./buckaroo-client install
   - buck build -c ui.superconsole=DISABLED //:signals
-  - buck run -c ui.superconsole=DISABLED //examples:button-click
+  - buck run -c ui.superconsole=DISABLED //example:button-click
