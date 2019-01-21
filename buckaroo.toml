@@ -1,0 +1,33 @@
+targets = [ "//signals:signals" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-any"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-function"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-optional"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "branch=master"

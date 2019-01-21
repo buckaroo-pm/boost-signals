@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'button-click',
+  srcs = [
+    'button_click.cpp',
+  ],
+  deps = [
+    '//:signals',
+  ],
+)
