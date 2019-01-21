@@ -1,4 +1,4 @@
-targets = [ "//signals:signals" ]
+targets = [ "//:signals" ]
 
 [[dependency]]
 package = "github.com/buckaroo-pm/boost-any"
