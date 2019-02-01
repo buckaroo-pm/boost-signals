@@ -34,7 +34,7 @@ target = "//:type-traits"
 
 [lock."github.com/buckaroo-pm/boost-align"]
 versions = [ "branch=master" ]
-revision = "6587b84e4fb0711bd7d0930b415ca7937e72021b"
+revision = "db53cd629da1af648babcd384bda7a4abcbf7b99"
 
 [lock."github.com/buckaroo-pm/boost-any"]
 versions = [ "branch=master" ]
@@ -58,7 +58,7 @@ revision = "ddd9a887f1f0253ded4455d455b3c54228067b74"
 
 [lock."github.com/buckaroo-pm/boost-core"]
 versions = [ "branch=master" ]
-revision = "4f59c5f06f11cd029a85d932ef51b9d511761f49"
+revision = "84411b155dae6f08ea749bdeb1e71aecd0718d52"
 
 [lock."github.com/buckaroo-pm/boost-detail"]
 versions = [ "branch=master" ]
