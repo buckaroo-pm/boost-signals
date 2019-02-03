@@ -38,7 +38,7 @@ revision = "6da7695406e00e3f59c47f1b0a369710db6e51f8"
 
 [lock."github.com/buckaroo-pm/boost-any"]
 versions = [ "branch=master" ]
-revision = "81b98182cb3314fab2ac4a30fc2cccb43b7cff51"
+revision = "995fefc2fe5a65da93c65d3eea725808a70024aa"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
